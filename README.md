@@ -1,6 +1,6 @@
 ## 🔗 Sobre o Projeto
 
-Deploy:  
+Deploy: https://clone-netflix-hiroto.netlify.app
 
 <p>
 Clone da netflix com algumas funcionalidades, como passar de filme em filme no scroll, clicar em um filme e aparecer o link do trailer do filme clicado, além de ao clicar novamente, o botão com o link ser removido da tela.
