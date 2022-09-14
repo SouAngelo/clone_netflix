@@ -8,7 +8,7 @@ Clone da netflix com algumas funcionalidades, como passar de filme em filme no s
 
 
 ## 💻 Layout Responsivo
-<br>
+
 <p align='center'>
 <img width='700' src='/src/gifs-demo/videonovo.gif'>
 </p>
