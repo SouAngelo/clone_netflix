@@ -1,0 +1,68 @@
+@import 'mixins'
+        
+    
+main
+    margin-left: 20px
+    color: white
+
+    
+.carousel-imgs
+    display: flex
+    overflow-y: hidden
+    overflow-x: scroll
+    padding: 20px
+    scroll-behavior: smooth
+    
+
+
+    &::-webkit-scrollbar
+        display: block
+   
+    
+    
+.image
+    @include imgWidth(100%, 150px)
+
+    &:hover
+        transform: scale(1.08)
+
+.image-large
+    @include imgWidth(100%, 250px)
+    
+.link-trailer
+    text-decoration: none
+    background: red 
+    color: #fff
+    width: 100%
+    text-align: center
+    padding: 10px 20px
+    transition: .5s
+    margin-left: 20px
+    border-radius: 5px
+
+    &:hover
+        background: #cd0505
+
+.arrows
+    position: absolute
+    right: 50px
+    width: 100px
+    height: 40px
+    @media (max-width: 700px)
+        display: none
+
+    & i 
+        margin-left: 15px
+        background: red 
+        padding: 2px 10px
+        cursor: pointer
+
+        &:hover
+                    background: #cd0505
+
+    
+
+    
+h1
+    @media (max-width: 500px)
+        font-size: 1.3rem
