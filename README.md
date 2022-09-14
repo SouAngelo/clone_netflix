@@ -1,6 +1,6 @@
 ## 🔗 Sobre o Projeto
 
-Deploy:  [https://onlineshop-projeto.netlify.app/](https://angelogustavo-portifolio.netlify.app/)
+Deploy:  
 
 <p>
 Esse é o meu portifólio, feito para mostrar um pouco sobre mim, minhas expêriencias, conhecimentos e projetos. 
